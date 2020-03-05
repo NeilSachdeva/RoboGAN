@@ -1,5 +1,5 @@
-# RoboGAN
-Using Conditional Generative Adversarial Networks to Reduce the Effects of Latency in Robotic Telesurgery
+
+# Using Conditional Generative Adversarial Networks to Reduce the Effects of Latency in Robotic Telesurgery
 
 This work was coded by Neil Sachdeva with the help of the Machine Perception and cognitive Robotics Lab and is currently under review by Internationall Conference on Omni-layer INtelligent Systems (July 2020). 
 
