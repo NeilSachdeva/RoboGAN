@@ -7,7 +7,7 @@ We've uploaded the pre-print paper, working code, and trained models for open-sc
 
 Original models can be found at https://phillipi.github.io/pix2pix/ and the dataset at https://endovissub-instrument.grand-challenge.org/Data/.
 
-Link to [Google Drive folder](https://drive.google.com/drive/folders/10vTtnkjxbrl1YOpsY6vXsOOxwLyXHETp?usp=sharing) with our pre-trained generator (latest_net_G.pth) and pre-trained discriminator (latest_net_D.pth) files.
+Our pre-trained generator (latest_net_G.pth) and pre-trained discriminator (latest_net_D.pth) models can be downloaded from the following [Google Drive folder](https://drive.google.com/drive/folders/10vTtnkjxbrl1YOpsY6vXsOOxwLyXHETp?usp=sharing).
 
 
 Abstract:
