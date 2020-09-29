@@ -1,7 +1,7 @@
 
 # Using Conditional Generative Adversarial Networks to Reduce the Effects of Latency in Robotic Telesurgery
 
-This work was coded by [Neil Sachdeva](https://www.linkedin.com/in/neil-sachdeva-221393177) with the help of the Machine Perception and Cognitive Robotics Lab and is currently under review by Internationall Conference on Omni-layer INtelligent Systems (July 2020). 
+This work was coded by [Neil Sachdeva](https://www.linkedin.com/in/neil-sachdeva-221393177) with the help of the Machine Perception and Cognitive Robotics Lab and has been accepted for publishing by the Springer Journal of Robotic Surgery. 
 
 The pre-print paper, working code, and trained models have all been uploaded for open-source use. 
 
